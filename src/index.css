@@ -1,0 +1,16 @@
+  
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    color: #5f574e;
+}
+.outfit{
+    font-family: 'Outfit';
+}
+.young-serif{
+    font-family: 'Young Serif';
+}
