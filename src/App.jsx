@@ -7,8 +7,8 @@ import NutritionTableRecipe from "./components/NutritionTableRecipe";
 const App = () => {
   return (
     <>
-      <main className="flex flex-col my-20 ">
-        <div className="md:w-[45%] bg-white p-8 mx-auto rounded-xl ">
+      <main className="flex flex-col md:my-20 ">
+        <div className="md:w-[45%] bg-white md:p-8 mx-auto rounded-xl ">
           <HeaderRecipe />
           <section className="mt-4 p-4">
             <EstimatedTimeRecipe />
