@@ -8,6 +8,9 @@
 html{
     color: #5f574e;
 }
+body{
+    background-color: hsl(30, 54%, 90%);
+}
 .outfit{
     font-family: 'Outfit';
 }
